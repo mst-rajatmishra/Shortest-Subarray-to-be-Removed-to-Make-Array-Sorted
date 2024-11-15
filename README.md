@@ -4,7 +4,7 @@ Given an integer array `arr`, remove a subarray (can be empty) from `arr` such t
 
 _Return the length of the shortest subarray to remove._
 
-A subarray is a contiguous subsequence of the array.
+A **subarray** is a contiguous subsequence of the array.
 
  
 
